@@ -1,0 +1,18 @@
+div {
+    margin: 5px;
+}
+h1 {
+    color: blue;
+}
+#third > span {
+    visibility: hidden;
+}
+#firs > p {
+    visibility: hidden;
+}
+p { color: red;
+}
+#third p { 
+    
+    background-color: blue;
+}
