@@ -1,21 +1,53 @@
 .container {
-    width: 800px;  /* Set width */
-    margin: 0 auto; /* Center horizontally */
-    padding: 0 50px; /* 50px padding on left and right */
+    width: 800px;  
+    margin: 0 auto; 
+    padding: 0 50px; 
 }
-.p, li { color: #707070;
+p, li { 
+    color: #707070;
+    
 }
-<header { text-align: center;
+.header { 
+    text-align: center;
 
 }
 h1 {
-    color: #DB0038; /* Set color for h1 */
+    color: #DB0038; 
+    text-align: center;
 }
 
 h2 {
-    color: #3998A3; /* Set color for h2 */
+    color: #3998A3; 
 }
 
 h3 {
-    color: #474747; /* Set color for h3 */
+    color: #474747; 
+}
+.hero {
+    background-color: #f4f4f4;
+    text-align: center;
+    box-shadow: 0 0 10px;
+    text-shadow: 10px;
+    padding-left: 50px; 
+    padding-right: 50px;
+
+
+}
+.hero img {max-width: 100%;
+
+}
+li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.stars {
+    color: #F4B400;
+    size: 25px;
+} 
+p, footer {
+    text-align: center;
+}
+body {
+    font-family: 'Happy Monkey';
+    
 }
