@@ -1,0 +1,21 @@
+.container {
+    width: 800px;  /* Set width */
+    margin: 0 auto; /* Center horizontally */
+    padding: 0 50px; /* 50px padding on left and right */
+}
+.p, li { color: #707070;
+}
+<header { text-align: center;
+
+}
+h1 {
+    color: #DB0038; /* Set color for h1 */
+}
+
+h2 {
+    color: #3998A3; /* Set color for h2 */
+}
+
+h3 {
+    color: #474747; /* Set color for h3 */
+}
