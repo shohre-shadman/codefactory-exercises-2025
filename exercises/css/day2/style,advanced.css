@@ -1,0 +1,44 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    text-align: center;
+    color: blue;
+    
+}
+li {
+    color: red;
+    
+}
+a:hover{
+    background-color: black;
+}
+img {
+    display: block;
+    
+}
+div::first-line{
+    font-size: larger;
+}
+input::placeholder{
+    color: blueviolet;
+
+}
+.center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      
+}
+.navlist {
+    align-items: center;
+}
+ul>li {
+    border: 2px solid;
+
+}
+.navbar {
+    display: flex;
+    gap: 2rem;
+    content: flex;
+}
