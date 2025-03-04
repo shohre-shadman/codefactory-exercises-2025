@@ -1,0 +1,22 @@
+
+body{
+    min-height: 100vh;
+    background-image: url(https://www.istockphoto.com/photo/linum-usitatissimum-gemeiner-lein-gm1915339428-555009042?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fflowers%2F&utm_term=flowers);
+    background-size: 100px 200px;
+    background-repeat: no-repeat;
+    background-position:center ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    aspect-ratio: 1/1;
+    transition: background 1s;
+    
+}
+div:hover{
+    background-color: brown;
+}
