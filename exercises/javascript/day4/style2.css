@@ -1,0 +1,23 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+.circle {
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    background-color: #3647b5;
+    margin: 125px auto;
+    justify-content: center;
+    transition: all 500ms;
+}
+.message {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
+}
+.circle:hover{
+    background-color: green;
+
+}
